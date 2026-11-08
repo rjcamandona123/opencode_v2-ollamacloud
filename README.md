@@ -7,6 +7,8 @@
 [![GitHub last commit](https://img.shields.io/github/last-commit/rjcamandona123/opencode_v2-ollamacloud?style=for-the-badge)](https://github.com/rjcamandona123/opencode_v2-ollamacloud/commits/main)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](./LICENSE)
 
+> Badges are served by [shields.io](https://shields.io). If any badge temporarily fails to load, the links above still work and the alt text keeps the meaning.
+
 
 ```bash
 ./llm setup
