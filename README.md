@@ -1,4 +1,4 @@
-# `llm` — one command, local models in OpenCode
+# `llm for ollama` — one command, local models in OpenCode
 
 [![Ollama Cloud](https://img.shields.io/badge/Ollama-Cloud-supported-412991?style=for-the-badge&logo=ollama&logoColor=white)](https://ollama.com)
 [![GitHub stars](https://img.shields.io/github/stars/rjcamandona123/opencode_v2-ollamacloud?style=for-the-badge)](https://github.com/rjcamandona123/opencode_v2-ollamacloud/stargazers)
